@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531839513192",
+    "project_id": "metrofireapp-fbaea",
+    "storage_bucket": "metrofireapp-fbaea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531839513192:android:280ad9b20167d3defcc1dd",
+        "android_client_info": {
+          "package_name": "com.example.metrofireproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531839513192-l9rkcqh38edtr97cttt78tsognrf7hqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCke2FWqsP-5B6HGAWU5SHCjuHzKkhwxqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531839513192-l9rkcqh38edtr97cttt78tsognrf7hqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
