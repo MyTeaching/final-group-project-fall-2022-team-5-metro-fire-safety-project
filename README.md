@@ -4,7 +4,7 @@
 <h2> What are we doing? </h2>
 <p> We are making an app to streamline the tedious process of filling out the form that Metro-Fire Safety employees have to fill out in order to conduct safety checks of various buildings in the city. </p>
 
-<img src = "https://imgur.com/1t8nmzZ.jpg"/>
+<img src = "https://imgur.com/1t8nmzZ.jpg" width="540" height="720"/>
 <h3> That's 120 slots on the grid to fill </h3>
     
 <p> By simply automating the top row on the grid, which is 12 boxes. Assuming that each box on the grid takes the same amount of time to fill out, and lets take the arbitrary 1 second as a number. That's 12 seconds per form, if the average worker fills out 1 form a day for every working day ( The USA has roughly 259 ~ 260 working days in a year) that is a total of 3108 seconds or almost 52 minutes worth of time saved! </p>
