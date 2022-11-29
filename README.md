@@ -1,4 +1,4 @@
-<h1> Metro-Fire Safety Project <h1>
+<h1> Metro-Fire Safety Project </h1>
 <p> A digitalization effort to improve efficiency of the Metro-Fire Safety Team </p>
 
 <h2> What are we doing? </h2>
