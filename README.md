@@ -11,7 +11,7 @@
   
 <p> Now 52 minutes doesn't look like much in a year, but that's assuming we can only automate the time portion of the grid and 1 person doing 1 form a day! Now, think of the time the Metro-Fire Safety Team can save if we automate 2 grids, people doing an average of 1.5 forms a day, and taking an average of 1.5 seconds to fill out each grid. That 51.8 minutes skyrockets to 233.1 minutes of time saved! </p>
   
-<p> Another advantage of our app would be the digitalization of the database! Many organizations still stick to paper or are stuck with paper based documentation. Which can be lost, misplaced, or even ink fading over time. Our app should provide a proof of concept that could demonstrate how much faster, easier, and more efficiently we can do things with the power of technology! </p?
+<p> Another advantage of our app would be the digitalization of the database! Many organizations still stick to paper or are stuck with paper based documentation. Which can be lost, misplaced, or even ink fading over time. Our app should provide a proof of concept that could demonstrate how much faster, easier, and more efficiently we can do things with the power of technology! </p>
   
   
 <h2> Technologies Used </h2>
