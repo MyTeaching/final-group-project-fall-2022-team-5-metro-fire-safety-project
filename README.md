@@ -15,5 +15,6 @@
   
   
 <h2> Technologies Used </h2>
-[](https://developer.android.com/studio)
-[](https://firebase.google.com/)
+
+<p>https://developer.android.com/studio</p>
+<p>https://firebase.google.com/</p>
