@@ -11,6 +11,7 @@
   
 <p> Another advantage of our app would be the digitalization of the database! Many organizations still stick to paper or are stuck with paper based documentation. Which can be lost, misplaced, or even ink fading over time. Our app should provide a proof of concept that could demonstrate how much faster, easier, and more efficiently we can do things with the power of technology! It would also be more convenient for finding older data, filtering for specific buildings, filtering for specific inspectors, etc. </p>
   
+<p> https://docs.google.com/presentation/d/1pktnpJzXtD7KmMDyK-dvxVvtu9GjrF1agg22Nqp4yrU/edit?usp=sharing </p>
   
 <h2> Technologies Used </h2>
 
