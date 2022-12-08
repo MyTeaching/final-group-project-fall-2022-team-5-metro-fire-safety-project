@@ -1,4 +1,4 @@
-package com.example.project;
+package com.example.metrofireproject;
 
 import org.junit.Test;
 
