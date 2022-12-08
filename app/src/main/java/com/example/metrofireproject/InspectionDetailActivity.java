@@ -2,6 +2,7 @@ package com.example.metrofireproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -22,7 +23,7 @@ public class InspectionDetailActivity extends AppCompatActivity {
         inspector = (TextView) findViewById(R.id.inspector);
         
         
-         Intent intent = getIntent();
+        Intent intent = getIntent();
         String recNum = intent.getStringExtra("Record Number");
         String site_location = intent.getStringExtra("Site");
         String date = intent.getStringExtra("Date");
@@ -37,5 +38,6 @@ public class InspectionDetailActivity extends AppCompatActivity {
        inspectionTime.setText(time);
         inspector.setText(inspectorName);
     }
-    }
+
 }
+
