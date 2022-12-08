@@ -15,4 +15,91 @@
     <string name="mobile">Mobile</string>
     <string name="number_hint">6465463060</string>
     <string name="welcome_to_the_supervisor_dashboard">Welcome To The Supervisor Dashboard</string>
+    
+    
+    
+        <string-array name="recordNumbers"> <!--creating array of record numbers-->
+        <item>010</item>
+        <item>009</item>
+        <item>008</item>
+        <item>007</item>
+        <item>006</item>
+        <item>005</item>
+        <item>004</item>
+        <item>003</item>
+        <item>002</item>
+        <item>001</item>
+    </string-array>
+
+
+
+    <string-array name="sites"> <!--creating array of inspection sites -->
+        <item>Davis Hall</item>
+        <item>Gillet Hall</item>
+        <item>Carman Hall</item>
+        <item>Apex Building</item>
+        <item>Old Gym Building</item>
+        <item>Gillet Hall</item>
+        <item>Carman Hall</item>
+        <item>Davis Hall</item>
+        <item>Old Gym Building</item>
+        <item>Apex Building</item>
+    </string-array>
+
+    <string-array name="site_images"> <!--creating array of building images-->
+        <item>@drawable/davis_hall_lehman_college</item>
+        <item>@drawable/gillet_hall_lehman_college</item>
+        <item>@drawable/carman_hall</item>
+        <item>@drawable/apex</item>
+        <item>@drawable/old_gymnasium_lehman_college</item>
+        <item>@drawable/gillet_hall_lehman_college</item>
+        <item>@drawable/carman_hall</item>
+        <item>@drawable/davis_hall_lehman_college</item>
+        <item>@drawable/old_gymnasium_lehman_college</item>
+        <item>@drawable/apex</item>
+    </string-array>
+
+    <string-array name="dates"> <!--creating array of inspection dates-->
+        <item>12/05/2022</item>
+        <item>12/04/2022</item>
+        <item>12/04/2022</item>
+        <item>12/03/2022</item>
+        <item>11/20/2022</item>
+        <item>11/19/2022</item>
+        <item>11/02/2022</item>
+        <item>11/02/2022</item>
+        <item>11/02/2022</item>
+        <item>11/13/2022</item>
+    </string-array>
+
+    <string-array name="times"> <!--creating array of inspection times-->
+        <item>01:00 PM</item>
+        <item>01:00 PM</item>
+        <item>03:00 PM</item>
+        <item>01:00 PM</item>
+        <item>03:00 PM</item>
+        <item>01:00 PM</item>
+        <item>01:00 PM</item>
+        <item>05:00 AM</item>
+        <item>01:00 PM</item>
+        <item>01:00 PM</item>
+    </string-array>
+
+    <string-array name="inspectors"> <!--creating array of inspectors-->
+        <item>Daniel</item>
+        <item>Salif</item>
+        <item>Victor</item>
+        <item>Carlos</item>
+        <item>Chris</item>
+        <item>Salif</item>
+        <item>Chris</item>
+        <item>Victor</item>
+        <item>Carlos</item>
+        <item>Daniel</item>
+    </string-array>
+
+    <string name="deleteDialog_header">Delete Inspection</string>
+    <string name="deleteDialog_body">Delete this inspection?</string>
+    <string name="deleteDialog_no">No</string>
+    <string name="deleteDialog_yes">Yes</string>
 </resources>
