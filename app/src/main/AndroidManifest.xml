@@ -14,6 +14,29 @@
         android:theme="@style/Theme.MetroFireProject"
         tools:targetApi="31">
 
+         <activity
+            android:name=".SupervisorDashboard"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        
+        <activity
+            android:name=".InspectionDetailActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        
+        <activity
+            android:name=".CreateTourActivity"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
 
 
         <activity
