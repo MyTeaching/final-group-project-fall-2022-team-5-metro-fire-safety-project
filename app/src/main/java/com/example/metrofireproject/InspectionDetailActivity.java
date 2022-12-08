@@ -20,5 +20,22 @@ public class InspectionDetailActivity extends AppCompatActivity {
         inspectionDate = (TextView) findViewById(R.id.inspection_date);
         inspectionTime = (TextView) findViewById(R.id.inspection_time);
         inspector = (TextView) findViewById(R.id.inspector);
+        
+        
+         Intent intent = getIntent();
+        String recNum = intent.getStringExtra("Record Number");
+        String site_location = intent.getStringExtra("Site");
+        String date = intent.getStringExtra("Date");
+        String inspectorName = intent.getStringExtra("Inspector");
+        int image = intent.getExtras().getInt("Image");
+        String time =  intent.getStringExtra("Time");
+
+        recordNum.setText(recNum);
+        site.setText(site_location);
+        siteimage .setImageResource(image);
+        inspectionDate.setText(date);
+       inspectionTime.setText(time);
+        inspector.setText(inspectorName);
+    }
     }
 }
